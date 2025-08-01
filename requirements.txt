@@ -1,3 +1,6 @@
+pip>=23.0
+setuptools>=65.0
+wheel>=0.38
 
 typing-extensions
 openai>=1.0.0,<2.0.0
